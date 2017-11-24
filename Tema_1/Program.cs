@@ -3,6 +3,7 @@ public class SuneteDeAnimale
 {
     public static void Main()
     {
+        // code review: sorry, the requirement was to use OOP, which means to define objects and behaviours. For instance: Dog class, Animal class... 
         string[] listaAnimale = new string[5];
 
         listaAnimale[0] = "Cainele face ham";
